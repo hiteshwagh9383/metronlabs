@@ -1,0 +1,16 @@
+ls listing all
+ls -a means list all + hidden data
+--------
+untracked -> new files that git doesn't yet track
+modfied-> changed
+satged->file is ready to be committed
+unmodified ->unchnaged
+
+
+add-> adds new or  changed files inn your working directory to the git staging area
+commit- it is record of change
+-------
+flow'
+changed(modfied)  newfile(untracked ) -> add (stagged) ->commit (unchanged)
+
+------
